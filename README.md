@@ -1,4 +1,4 @@
-<h1 align="center"> Ponto-Turstico-Senac-209 </h1>
+<h1 align="center"> Ponto-Turístico-Senac-209 </h1>
 <p>Solicitado a criação de uma página web sobre algum ponto turístico de Pernambuco.</p>
 
 
